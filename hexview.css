@@ -1,0 +1,14 @@
+.hexview {
+    border: 1px solid gray;
+    font-family: consolas, monospace, serif;
+}
+.hexview .body {
+    padding-left: 0.5em;
+}
+.hexview .line-numbers {
+    color: gray;
+    border-right: 1px solid gray;
+}
+.hexview .body .flash {
+    background-color: yellow;
+}
